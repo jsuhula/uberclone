@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UberClone</string>
+    <string name="startMessage">UberClone es una aplicacion similar a Uber</string>
+    <string name="driverButtonText">SOY CONDUCTOR</string>
+    <string name="clientButtonText">SOY CLIENTE</string>
+    <string name="selectOptionMessage">Ingresa a tu cuenta o registrate</string>
+    <string name="titleBar">Selecciona una opcion</string>
+    <string name="uberIconDescription">Icono de Uber Clone</string>
+    <string name="userName">Ingrese su nombre completo</string>
+    <string name="userEmail">Ingrese su correo electronico</string>
+    <string name="userPassword">Ingrese una contrasena</string>
+    <string name="registerButton">Registrar</string>
+    <string name="loginButton">Ingresar</string>
+</resources>
